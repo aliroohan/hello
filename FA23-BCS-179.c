@@ -34,5 +34,6 @@ int main()
     printf("Enter 1 to repeat program and 0 to end :");
     scanf("%d",&n);
     }
+    //this is a comment
     return 0;
 }
